@@ -11,7 +11,7 @@ So I wanted to publish thus people can try it and have fun with it :)
 - **Free and Open** : It is completely open source and free of charge!
 - **Pure Standards** : It works on any phone with [webgl](http://caniuse.com/#feat=webgl) and [webrtc](http://caniuse.com/#feat=stream)
 
-![screenshot](https://cloud.githubusercontent.com/assets/252962/23068128/40343608-f51a-11e6-8cb3-900e37a7f658.jpg)
+
 
 # Try it on Mobile
 It is done in 2 easy steps :)
@@ -24,7 +24,7 @@ and add 3d on top of it.
 Here is an example of [hiro marker](http://wibiwardhono.lecture.ub.ac.id/files/2015/01/HIRO.jpg).
 You can print the marker too or you can just display it on your desktop screen, like below.
 
-![screenshot](https://cloud.githubusercontent.com/assets/252962/23072106/73a0656c-f528-11e6-9fcd-3c900d1d47d3.jpg)
+
 
 # Standing on the Shoulders of Giants
 
